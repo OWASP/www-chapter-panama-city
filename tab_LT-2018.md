@@ -1,6 +1,6 @@
 ---
 title: LT-2018
-layout:  null
+layout: null
 tab: true
 order: 2
 tags: Panama_City
