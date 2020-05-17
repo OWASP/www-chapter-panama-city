@@ -1,6 +1,6 @@
 ---
 
-title: LT-2019
+title: lt-2019
 layout: null
 tab: true
 order: 3
