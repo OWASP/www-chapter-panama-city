@@ -4,5 +4,5 @@
 ### Social Links
 * [Meetup]()
 * [Social Link](#)-->
-### Social Links
+### Social Links del Capítulo Panama City
 * [Meetup](https://www.meetup.com/es/OWASP-Panama-City-Chapter/)
