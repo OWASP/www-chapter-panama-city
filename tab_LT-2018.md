@@ -24,7 +24,7 @@ Imagenes del evento
 ```
 
 | :- --------------------------------:  | :----------------------------------:   |
-| ![FOTO1](/www-chapter-panama-city/assets/images/2018_1.jpg)    |
+| ![FOTO1](/www-chapter-panama-city/assets/images/2018_1.jpeg)    |
 
 
 
