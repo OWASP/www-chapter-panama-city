@@ -3,7 +3,7 @@ title: lt-2018
 layout: null
 tab: true
 order: 2
-tags: Panama_City
+tags: Panama-City
 
 
 ---
