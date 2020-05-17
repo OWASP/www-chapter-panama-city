@@ -48,15 +48,14 @@ Realizando donaciones para el capítulo local, para el apoyo de proyectos y even
 
 ## ¿Que es Owasp?
 
-**OWASP** ([acrónimo](acrónimo ) de *Open Web Application
-Security Project*, en [inglés](idioma_inglés ) ‘Proyecto
-[abierto](Código_abierto ) de
-[seguridad](Seguridad_informática ) de [aplicaciones
-web](Aplicación_web )’) es un proyecto de [código
-abierto](código_abierto ) dedicado a determinar y combatir
-las causas que hacen que el [software](software ) sea
-[inseguro](Seguridad_informática ). La Fundación OWASP es un
-organismo sin [ánimo de lucro](ánimo_de_lucro ) que apoya y
+**OWASP** (acrónimo de *Open Web Application
+Security Project*, en inglés ‘Proyecto
+abierto de seguridad de aplicaciones
+web’) es un proyecto de código
+abierto dedicado a determinar y combatir
+las causas que hacen que el software sea
+inseguro. La Fundación OWASP es un
+organismo sin ánimo de lucro que apoya y
 gestiona los proyectos e infraestructura de OWASP. La comunidad OWASP
 está formada por empresas, organizaciones educativas y particulares de
 todo mundo. Juntos constituyen una comunidad de seguridad informática
@@ -73,16 +72,16 @@ OWASP recomienda enfocar la seguridad de aplicaciones informáticas
 considerando todas sus dimensiones: personas, procesos y tecnologías.
 
 Los documentos con más éxito de OWASP incluyen la [Guía
-OWASP](Guía_OWASP ) y el ampliamente adoptado documento de
-autoevaluación [OWASP Top 10](OWASP_Top_10 ). Las herramientas
+OWASP](https://owasp.org/www-project-web-security-testing-guide/) y el ampliamente adoptado documento de
+autoevaluación [OWASP Top 10](https://owasp.org/www-project-top-ten/). Las herramientas
 OWASP más usadas incluyen el entorno de formación
-[WebGoat](WebGoat ), la herramienta de pruebas de penetración
-[WebScarab](WebScarab ) y las utilidades de seguridad para
+[WebGoat](https://owasp.org/www-project-webgoat/), la herramienta de pruebas de penetración
+WebScarab y las utilidades de seguridad para
 entornos [.NET](.NET ) [OWASP
-DotNet](OWASP_DotNet ). OWASP cuenta con unos 50 capítulos
+DotNet](https://owasp.org/www-project-.net/). OWASP cuenta con unos 50 capítulos
 locales por todo el mundo y miles de participantes en las [listas de
-correo](lista_de_correo ) del proyecto. OWASP ha organizado la
-serie de conferencias [AppSec](AppSec ) para mejorar la
+correo](https://lists.owasp.org/mailman/listinfo) del proyecto. OWASP ha organizado la
+serie de conferencias [AppSec](https://owasp.org/events/) para mejorar la
 construcción de la comunidad de seguridad de aplicaciones web.
 
 ## ¿Como puedo participar?
