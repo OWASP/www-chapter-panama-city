@@ -1,7 +1,7 @@
 ---
 
 title: LT-2019
-layout:  null
+layout: null
 tab: true
 order: 3
 tags: Panama-City
