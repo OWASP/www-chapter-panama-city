@@ -77,7 +77,7 @@ autoevaluación [OWASP Top 10](https://owasp.org/www-project-top-ten/). Las herr
 OWASP más usadas incluyen el entorno de formación
 [WebGoat](https://owasp.org/www-project-webgoat/), la herramienta de pruebas de penetración
 WebScarab y las utilidades de seguridad para
-entornos [.NET](.NET ) [OWASP
+entornos .NET [OWASP
 DotNet](https://owasp.org/www-project-.net/). OWASP cuenta con unos 50 capítulos
 locales por todo el mundo y miles de participantes en las [listas de
 correo](https://lists.owasp.org/mailman/listinfo) del proyecto. OWASP ha organizado la
