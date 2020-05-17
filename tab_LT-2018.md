@@ -33,10 +33,4 @@ img[alt="FOTO1"] {
   max-width:  400px; 
   display: block;
 }
-.tabla2{
-    font-size:13px;
-}
-.tabla1{
-    font-size:13px;
-}
 </style> 
