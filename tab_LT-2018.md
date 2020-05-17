@@ -1,9 +1,9 @@
 ---
-title: LT-2018
+title: lt-2018
 layout: null
 tab: true
 order: 2
-tags: Panama_city
+tags: Panama_City
 
 
 ---
