@@ -4,13 +4,14 @@ layout: col-sidebar
 title: OWASP Panama City
 tags: Panama-City
 level: 0
-
-region: Latin America
-
+region: North America
+meetup-group: OWASP-Panama-City-Chapter
+postal-code: 
 auto-migrated: 1
 meetup-group: OWASP-Panama-City-Chapter
-country: Panama
 postal-code: 
+
+
 
 ---
 
