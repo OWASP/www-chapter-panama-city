@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Panama City
 tags: Panama-City
 level: 0
-region: North America
+region: Latin America
 meetup-group: OWASP-Panama-City-Chapter
 postal-code: 
 auto-migrated: 1
@@ -15,13 +15,7 @@ postal-code:
 
 ---
 
-<style type="text/css">
 
-.news-events{
-
-	display: none;
-}
-</style>
 
 ## Sobre el capítulo OWASP Panamá City
 El capitulo OWASP Panamá City, comenzó oficialmente en el año 2019 con el fin de difundir temas de Seguridad de Tecnologías de la Información y de Operación en Panamá. 
