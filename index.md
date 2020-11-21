@@ -15,7 +15,13 @@ postal-code:
 
 ---
 
+<style type="text/css">
 
+.news-events{
+
+	display: none;
+}
+</style>
 
 ## Sobre el capítulo OWASP Panamá City
 El capitulo OWASP Panamá City, comenzó oficialmente en el año 2019 con el fin de difundir temas de Seguridad de Tecnologías de la Información y de Operación en Panamá. 
