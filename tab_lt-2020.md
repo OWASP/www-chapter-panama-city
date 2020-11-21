@@ -15,11 +15,13 @@ Se realizará el Evento Virtual OWASP LATAM Edición Navidad, transmitido en el 
 
 Contaremos con expositores miembos de OWASP LATAM además de invitados especiales. los esperamos.!
 
-#vienres 18 de diciembre de 2020
-#### Viernes 18 de diciembre 2020: 15:00 - 20:00 GMT-5 Bogota/Lima
+# Vienres 18 de diciembre de 2020
+### Hora 15:00 - 20:00 GMT-5 Bogota/Lima
 
-#sábado 19 de diciembre de 2020
-#### DSábado 19 de diciembre 2020: 15:00 - 21:30 GMT-5 Bogota/Lima
+# Sábado 19 de diciembre de 2020
+### Hora 15:00 - 21:30 GMT-5 Bogota/Lima
+
+
 
 
 ![BANNER2020](/www-chapter-panama-city/assets/images/20201218.jpg "OWASP LATAM EDICIÓN NAVIDAD 2020")
