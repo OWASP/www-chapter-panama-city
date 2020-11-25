@@ -1,6 +1,6 @@
 ---
 
-title: NextEvents
+title: lt-2020
 displaytext: Próximos Eventos
 layout: null
 tab: true
