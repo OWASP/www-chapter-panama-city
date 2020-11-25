@@ -7,9 +7,8 @@ level: 0
 region: Latin America
 meetup-group: OWASP-Panama-City-Chapter
 postal-code: 
-auto-migrated: 1
-meetup-group: OWASP-Panama-City-Chapter
-postal-code: 
+auto-migrated: 0
+ 
 
 
 
