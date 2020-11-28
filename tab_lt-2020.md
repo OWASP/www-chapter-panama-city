@@ -7,11 +7,9 @@ tab: true
 order: 3
 tags: Panama-City
 ---
-
-# Próximos Eventos
+# Eventos anteriores
 
 ## Eventos 2020
-
 
 ![FOTO1](/www-chapter-panama-city/assets/images/20201125.jpeg "OWASP Panamá City")
 
@@ -29,24 +27,6 @@ tags: Panama-City
 
 Todos son bienvenidos a unirse a nuestras reuniones del capítulo
 [Owasp - Meetup Panamá City](https://www.meetup.com/es/OWASP-Panama-City-Chapter/?_locale=es/)
-
-
-
-# OWASP LATAM EDICIÓN NAVIDAD
-
-
-Se realizará el Evento Virtual OWASP LATAM Edición Navidad, transmitido en el canal de YouTube [OWASP LATAM ](https://www.youtube.com/c/OWASPLATAM "OWASP LATAM")
-Contaremos con expositores miembos de OWASP LATAM además de invitados especiales. los esperamos.!
-
-## Vienres 18 de diciembre de 2020
-### Hora 15:00 - 20:00 GMT-5 Bogota/Lima
-
-## Sábado 19 de diciembre de 2020
-### Hora 15:00 - 21:30 GMT-5 Bogota/Lima
-
-
-![BANNER2020](/www-chapter-panama-city/assets/images/20201218.jpg "OWASP LATAM EDICIÓN NAVIDAD 2020")
-
 
 
 <style>
