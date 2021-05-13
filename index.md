@@ -93,3 +93,7 @@ Cualquier persona con criterio de seguridad y tecnología puede
 participar, estudiantes, docentes, profesionales todos somos iguales
 dentro de nuestra comunidad, nadie es más ni menos jerárquico en nuestra
 comunidad.
+
+Check out our [Meetup Group](https://www.meetup.com/es/OWASP-Panama-City-Chapter/)
+
+ {% include chapter_events.html group=page.meetup-group %}
