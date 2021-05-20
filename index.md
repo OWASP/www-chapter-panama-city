@@ -27,6 +27,8 @@ El capitulo OWASP Panamá City, comenzó oficialmente en el año 2019 con el fin
 
 Nuestro objetivo, es difundir la filosofía de OWASP en las Universidades, Empresas, Organizaciones Cívicas y Estudiantiles para concientizar y sensibilizar sobre la Seguridad en las Aplicaciones Web.
 
+{% include chapter_events.html group=page.meetup-group %}
+
 ## Sin fines de lucro, organización de voluntarios:
 * Todos los miembros son voluntarios
 * Todo el trabajo es donado por los patrocinadores
@@ -49,7 +51,7 @@ ES SIN COSTO!
 ## Empresa
 Realizando donaciones para el capítulo local, para el apoyo de proyectos y eventos
 
-{% include chapter_events.html group=page.meetup-group %}
+
 
 ## ¿Que es Owasp?
 
