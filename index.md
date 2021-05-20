@@ -49,6 +49,8 @@ ES SIN COSTO!
 ## Empresa
 Realizando donaciones para el capítulo local, para el apoyo de proyectos y eventos
 
+{% include chapter_events.html group=page.meetup-group %}
+
 ## ¿Que es Owasp?
 
 **OWASP** (acrónimo de *Open Web Application
