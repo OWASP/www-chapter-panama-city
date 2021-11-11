@@ -2,8 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Panama City
-tags: example-tag
-level: 0
+tags: 
 
 region: Latin America
 
