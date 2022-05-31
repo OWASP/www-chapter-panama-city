@@ -27,9 +27,4 @@ https://www.meetup.com/OWASP-Panama-City-Chapter/events/278222423/
 
 https://www.meetup.com/OWASP-Panama-City-Chapter/events/278221264/
 
-<style>
-img[alt="FOTO1"] { 
-  max-width:  400px; 
-  display: block;
-}
-</style> 
+
