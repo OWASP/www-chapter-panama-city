@@ -1,7 +1,7 @@
 ---
 
 title: lt-2020
-displaytext: Próximos Eventos
+displaytext: Eventos-2020
 layout: null
 tab: true
 order: 3
