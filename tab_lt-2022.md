@@ -1,7 +1,7 @@
 ---
 
 title: lt-2022
-displaytext: Eventos 2022
+displaytext: lt-2022
 layout: null
 tab: true
 order: 6
