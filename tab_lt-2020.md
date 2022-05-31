@@ -25,13 +25,3 @@ Contaremos con expositores miembos de OWASP LATAM además de invitados especiale
 ### Hora 14:15 - 21:30 GMT-5 Bogota/Lima
 
 
-![FOTO1](/www-chapter-panama-city/assets/images/owasp_navidad.jpg "OWASP LATAM EDICIÓN NAVIDAD 2020")
-
-
-
-<style>
-img[alt="FOTO1"] { 
-  max-width:  400px; 
-  display: block;
-}
-</style> 
