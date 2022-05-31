@@ -8,8 +8,6 @@ order: 4
 tags: Panama-City
 ---
 
-# Próximos Eventos
-
 ## Eventos 2020
 
 # OWASP LATAM EDICIÓN NAVIDAD
