@@ -17,11 +17,3 @@ tags: Panama-City
 ## viernes, 6 de mayo de 2022, 19:30 hasta el viernes, 6 de mayo de 2022, 21:30 GMT-5
 
 
-
-
-<style>
-img[alt="FOTO1"] { 
-  max-width:  400px; 
-  display: block;
-}
-</style> 
