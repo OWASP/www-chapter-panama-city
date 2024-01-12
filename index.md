@@ -5,6 +5,7 @@ title: OWASP Panama City
 tags: Panama-City
 level: 0
 region: Central America
+country: Panama
 meetup-group: OWASP-Panama-City-Chapter
 postal-code: 
 auto-migrated: 0
