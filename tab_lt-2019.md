@@ -35,10 +35,10 @@ Imagenes del evento
 ```
 
 | :- --------------------------------:  | :----------------------------------:   |
-| ![FOTO1](/www-chapter-panama-city/assets/images/2019_1.jpg)  | ![FOTO1](/www-chapter-panama-city/assets/images/2019_4.jpeg)    |
-| ![FOTO1](/www-chapter-panama-city/assets/images/2019_5.jpeg)  | ![FOTO1](/www-chapter-panama-city/assets/images/2019_6.jpeg)   |
-| ![FOTO1](/www-chapter-panama-city/assets/images/2019_7.jpeg)  | ![FOTO1](/www-chapter-panama-city/assets/images/2019_8.jpeg)   |
-| ![FOTO1](/www-chapter-panama-city/assets/images/2019_9.jpeg)  | ![FOTO1](/www-chapter-panama-city/assets/images/2019_10.jpeg)   |
+| ![FOTO1](/www-chapter-panama-city/assets/images/2019_1.jpg)    | ![FOTO1](/www-chapter-panama-city/assets/images/2019_4.jpeg)    |
+| ![FOTO1](/www-chapter-panama-city/assets/images/2019_5.jpeg)   | ![FOTO1](/www-chapter-panama-city/assets/images/2019_6.jpeg)    |
+| ![FOTO1](/www-chapter-panama-city/assets/images/2019_7.jpeg)   | ![FOTO1](/www-chapter-panama-city/assets/images/2019_8.jpeg)    |
+| ![FOTO1](/www-chapter-panama-city/assets/images/2019_9.jpeg)   | ![FOTO1](/www-chapter-panama-city/assets/images/2019_10.jpeg)   |
 | ![FOTO1](/www-chapter-panama-city/assets/images/2019_11.jpeg)  | ![FOTO1](/www-chapter-panama-city/assets/images/2019_12.jpeg)   |
 | ![FOTO1](/www-chapter-panama-city/assets/images/2019_13.jpeg)  | ![FOTO1](/www-chapter-panama-city/assets/images/2019_14.jpeg)   |
 | ![FOTO1](/www-chapter-panama-city/assets/images/2019_15.jpeg)  | ![FOTO1](/www-chapter-panama-city/assets/images/2019_16.jpeg)   |

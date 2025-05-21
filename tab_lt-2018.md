@@ -25,10 +25,10 @@ Imagenes del evento
 
 
 | :- --------------------------------:  | :----------------------------------:   |
-| ![FOTO1](/www-chapter-panama-city/assets/images/2018_1.jpeg)  | ![FOTO1](/www-chapter-panama-city/assets/images/2018_4.jpg)    |
-| ![FOTO1](/www-chapter-panama-city/assets/images/2018_5.jpg)  | ![FOTO1](/www-chapter-panama-city/assets/images/2018_2.jpg)   |
-| ![FOTO1](/www-chapter-panama-city/assets/images/2018_7.jpg)  | ![FOTO1](/www-chapter-panama-city/assets/images/2018_8.jpg)   |
-| ![FOTO1](/www-chapter-panama-city/assets/images/2018_9.jpg)  | ![FOTO1](/www-chapter-panama-city/assets/images/2018_10.jpg)   |
+| ![FOTO1](/www-chapter-panama-city/assets/images/2018_1.jpeg)  | ![FOTO1](/www-chapter-panama-city/assets/images/2018_4.jpg)   |
+| ![FOTO1](/www-chapter-panama-city/assets/images/2018_5.jpg)   | ![FOTO1](/www-chapter-panama-city/assets/images/2018_2.jpg)   |
+| ![FOTO1](/www-chapter-panama-city/assets/images/2018_7.jpg)   | ![FOTO1](/www-chapter-panama-city/assets/images/2018_8.jpg)   |
+| ![FOTO1](/www-chapter-panama-city/assets/images/2018_9.jpg)   | ![FOTO1](/www-chapter-panama-city/assets/images/2018_10.jpg)  |
 | ![FOTO1](/www-chapter-panama-city/assets/images/2018_11.jpg)  | ![FOTO1](/www-chapter-panama-city/assets/images/2018_3.jpg)   |
 
 

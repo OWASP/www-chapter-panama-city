@@ -24,4 +24,17 @@ Contaremos con expositores miembos de OWASP LATAM además de invitados especiale
 ## Sábado 19 de diciembre de 2020
 ### Hora 14:15 - 21:30 GMT-5 Bogota/Lima
 
+Imagenes del eventos 2020
+```
 
+| :- --------------------------------:  | :----------------------------------:   |
+| ![FOTO1](/www-chapter-panama-city/assets/images/2020/2020.1.jpg)  | ![FOTO1](/www-chapter-panama-city/assets/images/2020/2020.1.jpg)    |
+
+
+
+<style>
+img[alt="FOTO1"] { 
+  max-width:  400px; 
+  display: block;
+}
+</style> 
