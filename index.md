@@ -6,6 +6,7 @@ tags: Panama-City
 level: 0
 region: Central America
 country: Panama
+
 ---
 
 <style type="text/css">
