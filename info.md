@@ -5,8 +5,7 @@
 * [Meetup]()
 * [Social Link](#)-->
 ### Redes Sociales del Capítulo Panama City
-* [Meetup](#)
-* [YouTube](#)
+* [Meetup](#)* [YouTube](#)
 * [Instagram](#)
 * [Facebook](#)
 
