@@ -2,10 +2,11 @@
 
 layout: col-sidebar
 title: OWASP Panama City
-tags: Panama-City
+tags: appsec-tag
 level: 0
 region: Central America
 country: Panama
+postal-code: 0801
 
 ---
 
