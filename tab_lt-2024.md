@@ -15,10 +15,10 @@ Imagenes de los eventos del  2024
 ```
 
 | :- --------------------------------:  | :----------------------------------:   |
-| ![FOTO1](/assets/images/2024/2024.1.jfif)    | ![FOTO1](/assets/images/2024/2024.1.jfif)    |
-| ![FOTO1](/assets/images/2024/2024.2.jfif)    | ![FOTO1](/assets/images/2024/2024.2.jfif)    |
-| ![FOTO1](/assets/images/2024/2024.3.jfif)    | ![FOTO1](/assets/images/2024/2024.3.jfif)    |
-| ![FOTO1](/assets/images/2024/2024.4.jfif)    | ![FOTO1](/assets/images/2024/2024.4.jfif)   |
+| ![FOTO1](/www-chapter-panama-city/assets/images2024/2024.1.jfif)    | ![FOTO1](/www-chapter-panama-city/assets/images2024/2024.1.jfif)    |
+| ![FOTO1](/www-chapter-panama-city/assets/images2024/2024.2.jfif)    | ![FOTO1](/www-chapter-panama-city/assets/images2024/2024.2.jfif)    |
+| ![FOTO1](/www-chapter-panama-city/assets/images2024/2024.3.jfif)    | ![FOTO1](/www-chapter-panama-city/assets/images2024/2024.3.jfif)    |
+| ![FOTO1](/www-chapter-panama-city/assets/images2024/2024.4.jfif)    | ![FOTO1](/www-chapter-panama-city/assets/images2024/2024.4.jfif)   |
 
 
 
