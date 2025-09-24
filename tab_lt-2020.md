@@ -28,7 +28,7 @@ Imagenes del eventos 2020
 ```
 
 | :- --------------------------------:  | :----------------------------------:   |
-| ![FOTO1](/www-chapter-panama-city/assets/images2020/2020.1.jpg)  | ![FOTO1](/www-chapter-panama-city/assets/images2020/2020.1.jpg)    |
+| ![FOTO1](/www-chapter-panama-city/assets/images/2020/2020.1.jpg)  | ![FOTO1](/www-chapter-panama-city/assets/images/2020/2020.1.jpg)    |
 
 
 

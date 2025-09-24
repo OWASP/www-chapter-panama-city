@@ -18,7 +18,7 @@ Se realizó el Primer Latam-Tour en Panamá, con talleres y presentaciones de al
 #### Fecha: 23 de mayo de 2018.
 #### Ciudad: Panamá.
 
-![BANNER2018](/www-chapter-panama-city/assets/images2018_2.jpg "OWASP Latam-Tour Panamá City 2018")
+![BANNER2018](/www-chapter-panama-city/assets/images/2018/2018_2.jpg "OWASP Latam-Tour Panamá City 2018")
 ### Galeria
 ```
 Imagenes del evento
@@ -26,11 +26,11 @@ Imagenes del evento
 
 
 | :- --------------------------------:  | :----------------------------------:   |
-| ![FOTO1](/www-chapter-panama-city/assets/images2018_1.jpeg)  | ![FOTO1](/www-chapter-panama-city/assets/images2018_4.jpg)   |
-| ![FOTO1](/www-chapter-panama-city/assets/images2018_5.jpg)   | ![FOTO1](/www-chapter-panama-city/assets/images2018_2.jpg)   |
-| ![FOTO1](/www-chapter-panama-city/assets/images2018_7.jpg)   | ![FOTO1](/www-chapter-panama-city/assets/images2018_8.jpg)   |
-| ![FOTO1](/www-chapter-panama-city/assets/images2018_9.jpg)   | ![FOTO1](/www-chapter-panama-city/assets/images2018_10.jpg)  |
-| ![FOTO1](/www-chapter-panama-city/assets/images2018_11.jpg)  | ![FOTO1](/www-chapter-panama-city/assets/images2018_3.jpg)   |
+| ![FOTO1](/www-chapter-panama-city/assets/images/2018/2018_1.jpeg)  | ![FOTO1](/www-chapter-panama-city/assets/images/2018/2018_4.jpg)   |
+| ![FOTO1](/www-chapter-panama-city/assets/images/2018/2018_5.jpg)   | ![FOTO1](/www-chapter-panama-city/assets/images/2018/2018_2.jpg)   |
+| ![FOTO1](/www-chapter-panama-city/assets/images/2018/2018_7.jpg)   | ![FOTO1](/www-chapter-panama-city/assets/images/2018/2018_8.jpg)   |
+| ![FOTO1](/www-chapter-panama-city/assets/images/2018/2018_9.jpg)   | ![FOTO1](/www-chapter-panama-city/assets/images/2018/2018_10.jpg)  |
+| ![FOTO1](/www-chapter-panama-city/assets/images/2018/2018_11.jpg)  | ![FOTO1](/www-chapter-panama-city/assets/images/2018/2018_3.jpg)   |
 
 
 <style>
