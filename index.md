@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Panama City
-tags: appsec-tag
+tags: Panama-City
 level: 0
 region: Central America
 country: Panama

@@ -4,7 +4,7 @@ title: lt-2024
 displaytext: lt-2024
 layout: null
 tab: true
-order: 7
+order: 2
 tags: Panama-City
 ---
 
@@ -15,10 +15,10 @@ Imagenes de los eventos del  2024
 ```
 
 | :- --------------------------------:  | :----------------------------------:   |
-| ![FOTO1](/www-chapter-panama-city/assets/images/2024/2024.1.JFIF)    | ![FOTO1](/www-chapter-panama-city/assets/images/2024/2024.1.JFIF)    |
-| ![FOTO1](/www-chapter-panama-city/assets/images/2024/2024.2.JFIF)    | ![FOTO1](/www-chapter-panama-city/assets/images/2024/2024.2.JFIF)    |
-| ![FOTO1](/www-chapter-panama-city/assets/images/2024/2024.3.JFIF)    | ![FOTO1](/www-chapter-panama-city/assets/images/2024/2024.3.JFIF)    |
-| ![FOTO1](/www-chapter-panama-city/assets/images/2024/2024.4.JFIF)    | ![FOTO1](/www-chapter-panama-city/assets/images/2024/2024.4.JFIF)   |
+| ![FOTO1](/assets/images/2024/2024.1.jfif)    | ![FOTO1](/assets/images/2024/2024.1.jfif)    |
+| ![FOTO1](/assets/images/2024/2024.2.jfif)    | ![FOTO1](/assets/images/2024/2024.2.jfif)    |
+| ![FOTO1](/assets/images/2024/2024.3.jfif)    | ![FOTO1](/assets/images/2024/2024.3.jfif)    |
+| ![FOTO1](/assets/images/2024/2024.4.jfif)    | ![FOTO1](/assets/images/2024/2024.4.jfif)   |
 
 
 

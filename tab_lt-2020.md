@@ -4,7 +4,7 @@ title: lt-2020
 displaytext: lt-2020
 layout: null
 tab: true
-order: 4
+order: 6
 tags: Panama-City
 ---
 
@@ -28,7 +28,7 @@ Imagenes del eventos 2020
 ```
 
 | :- --------------------------------:  | :----------------------------------:   |
-| ![FOTO1](/www-chapter-panama-city/assets/images/2020/2020.1.jpg)  | ![FOTO1](/www-chapter-panama-city/assets/images/2020/2020.1.jpg)    |
+| ![FOTO1](/assets/images/2020/2020.1.jpg)  | ![FOTO1](/assets/images/2020/2020.1.jpg)    |
 
 
 

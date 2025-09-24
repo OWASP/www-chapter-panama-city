@@ -3,9 +3,9 @@
 title: lt-2025
 displaytext: lt-2025
 layout: null
-tab: true
-order: 78
-tags: Panama-City
+tab: false
+order: 0
+tags: Panama-City_HIDE
 ---
 
 # Eventos 2025

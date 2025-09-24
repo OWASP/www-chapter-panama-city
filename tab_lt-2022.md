@@ -4,7 +4,7 @@ title: lt-2022
 displaytext: lt-2022
 layout: null
 tab: true
-order: 6
+order: 4
 tags: Panama-City
 ---
 
@@ -29,13 +29,13 @@ Imagenes de los eventos del 2022
 ```
 
 | :- --------------------------------:  | :----------------------------------:   |
-| ![FOTO1](/www-chapter-panama-city/assets/images/2022/2022.1.jfif)  | ![FOTO1](/www-chapter-panama-city/assets/images/2022/2022.1.jfif)   |
-| ![FOTO1](/www-chapter-panama-city/assets/images/2022/2022.2.jfif)  | ![FOTO1](/www-chapter-panama-city/assets/images/2022/2022.2.jfif)   |
-| ![FOTO1](/www-chapter-panama-city/assets/images/2022/2022.3.jfif)  | ![FOTO1](/www-chapter-panama-city/assets/images/2022/2022.3.jfif)   |
-| ![FOTO1](/www-chapter-panama-city/assets/images/2022/2022.4.jfif)  | ![FOTO1](/www-chapter-panama-city/assets/images/2022/2022.4.jfif)   |
-| ![FOTO1](/www-chapter-panama-city/assets/images/2022/2022.5.jfif)  | ![FOTO1](/www-chapter-panama-city/assets/images/2022/2022.5.jfif)   |
-| ![FOTO1](/www-chapter-panama-city/assets/images/2022/2022.6.jfif)  | ![FOTO1](/www-chapter-panama-city/assets/images/2022/2022.6.jfif)   |
-| ![FOTO1](/www-chapter-panama-city/assets/images/2022/2022.7.jfif)  | ![FOTO1](/www-chapter-panama-city/assets/images/2022/2022.7.jfif)   |
+| ![FOTO1](/assets/images/2022/2022.1.jfif)  | ![FOTO1](/assets/images/2022/2022.1.jfif)   |
+| ![FOTO1](/assets/images/2022/2022.2.jfif)  | ![FOTO1](/assets/images/2022/2022.2.jfif)   |
+| ![FOTO1](/assets/images/2022/2022.3.jfif)  | ![FOTO1](/assets/images/2022/2022.3.jfif)   |
+| ![FOTO1](/assets/images/2022/2022.4.jfif)  | ![FOTO1](/assets/images/2022/2022.4.jfif)   |
+| ![FOTO1](/assets/images/2022/2022.5.jfif)  | ![FOTO1](/assets/images/2022/2022.5.jfif)   |
+| ![FOTO1](/assets/images/2022/2022.6.jfif)  | ![FOTO1](/assets/images/2022/2022.6.jfif)   |
+| ![FOTO1](/assets/images/2022/2022.7.jfif)  | ![FOTO1](/assets/images/2022/2022.7.jfif)   |
 
 <style>
 img[alt="FOTO1"] { 

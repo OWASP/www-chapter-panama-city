@@ -35,9 +35,9 @@ Imagenes de los eventos del 2021
 ```
 
 | :- --------------------------------:  | :----------------------------------:   |
-| ![FOTO1](/www-chapter-panama-city/assets/images/2021/2021.1.jpg)    | ![FOTO1](/www-chapter-panama-city/assets/images/2021/2021.1.jpg)    |
-| ![FOTO1](/www-chapter-panama-city/assets/images/2021/2021.2.jpg)    | ![FOTO1](/www-chapter-panama-city/assets/images/2021/2021.2.jpg)    |
-| ![FOTO1](/www-chapter-panama-city/assets/images/2021/2021.3.jpg)    | ![FOTO1](/www-chapter-panama-city/assets/images/2021/2021.3.jpg)     |
+| ![FOTO1](/assets/images/2021/2021.1.jpg)    | ![FOTO1](/assets/images/2021/2021.1.jpg)    |
+| ![FOTO1](/assets/images/2021/2021.2.jpg)    | ![FOTO1](/assets/images/2021/2021.2.jpg)    |
+| ![FOTO1](/assets/images/2021/2021.3.jpg)    | ![FOTO1](/assets/images/2021/2021.3.jpg)     |
 
 
 <style>
