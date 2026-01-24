@@ -18,7 +18,7 @@ We collaborate with various organizations and institutions to foster cybersecuri
 
 ### 🌟 Community Partners  
 
-| Organization Logo | Organization Name          | Desciption             |
+| Organization Logo | Organization Name          | Description             |
 |-------------------|----------------------------|---------------------- |
 | ![INFOSECMAP](/www-chapter-panama-city/assets/images/2026/InfoSecMap-logo.png) | <a href="https://infosecmap.com">INFOSECMAP</a> | Partner adds ISM as a Community Sponsor / Community Partner to its chapter page on owasp.org, meetup page, and chapter meeting intro slides, using this logo and the short description below. Please link the logo to https://infosecmap.com and note that the InfoSecMap word in the text below also links to our site.  |
 
