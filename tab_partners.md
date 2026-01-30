@@ -20,7 +20,7 @@ We collaborate with various organizations and institutions to foster cybersecuri
 
 | Organization Logo | Organization Name          | Description             |
 |-------------------|----------------------------|---------------------- |
-| ![INFOSECMAP](/www-chapter-panama-city/assets/images/2026/InfoSecMap-logo.png) | <a href="https://infosecmap.com">INFOSECMAP</a> | Partner adds ISM as a Community Sponsor / Community Partner to its chapter page on owasp.org, meetup page, and chapter meeting intro slides, using this logo and the short description below. Please link the logo to https://infosecmap.com and note that the InfoSecMap word in the text below also links to our site.  |
+| ![INFOSECMAP](/www-chapter-panama-city/assets/images/2026/InfoSecMap-logo.png) | <a href="https://infosecmap.com">INFOSECMAP</a> | nfoSecMap is your go-to global directory for cybersecurity events and communities. Discover conferences, CTFs, meetups, and more - all meticulously curated and constantly updated. Whatever you're looking for, including Call for Papers, Trainers, Sponsors, or Volunteers, our powerful search tools make it easy. Best of all, it's completely free!.  |
 
 ---
 > <p align="center"> For partnership and speaker queries, mail to: <a href="mailto:diego.gonzalez.arango@owasp.org">diego.gonzalez.arango@owasp.org</a> 📩
