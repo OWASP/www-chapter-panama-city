@@ -94,18 +94,19 @@ participar, estudiantes, docentes, profesionales todos somos iguales
 dentro de nuestra comunidad, nadie es más ni menos jerárquico en nuestra
 comunidad.
 
-## 🤝 Our Partners  
+## 🤝 Nuestros Socios  
 
-We collaborate with various organizations and institutions to foster cybersecurity awareness and innovation.  
+Colaboramos con diversas organizaciones e instituciones para fomentar la concientización y la innovación en ciberseguridad.
 
-### 🌟 Community Partners  
 
-| Organization Logo | Organization Name &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;  | Description             |
+### 🌟 Socios Comunitarios
+
+| Logo de la organización | Nombre de la organización &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;  | Descripción             |
 |-------------------| :-----------: |:------------------------:|
-| ![INFOSECMAP](/www-chapter-panama-city/assets/images/2026/InfoSecMap-logo.png) | [INFOSECMAP](https://infosecmap.com) | InfoSecMap is your go-to global directory for cybersecurity events and communities. Discover conferences, CTFs, meetups, and more - all meticulously curated and constantly updated. Whatever you're looking for, including Call for Papers, Trainers, Sponsors, or Volunteers, our powerful search tools make it easy. Best of all, it's completely free!.  |
+| <a href="https://infosecmap.com"> ![INFOSECMAP](/www-chapter-panama-city/assets/images/2026/InfoSecMap-logo.png) </a> | [INFOSECMAP](https://infosecmap.com) | InfoSecMap es la plataforma global de referencia para descubrir eventos y comunidades de ciberseguridad. Encuentra conferencias, CTFs, meetups y mucho más, con información confirmada y siempre actualizada. Sus filtros avanzados permiten buscar de manera simple y eficiente, incluyendo Call for Papers, Trainers, Patrocinadores, Voluntarios y otras oportunidades clave del ecosistema InfoSec. Y lo mejor de todo: ¡es completamente gratis! |
 
 ---
-> <p align="center"> For partnership and speaker queries, mail to: <a href="mailto:diego.gonzalez.arango@owasp.org">diego.gonzalez.arango@owasp.org</a> 📩
-> <p align="center"> Our partners play a vital role in strengthening the cybersecurity community. ✨
+> <p align="center"> Para consultas sobre alianzas y ponentes, escribir a: <a href="mailto:diego.gonzalez.arango@owasp.org">diego.gonzalez.arango@owasp.org</a> 📩
+> <p align="center"> Nuestros socios desempeñan un papel vital en el fortalecimiento de la comunidad de ciberseguridad. ✨
 ---
-<b>Stay tuned for more collaborations! </b> 
+<b>¡Mantente atento a más colaboraciones!</b> 
