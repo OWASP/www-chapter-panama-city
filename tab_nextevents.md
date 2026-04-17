@@ -24,9 +24,9 @@ Hack Azuero no es solo un evento… es el punto de encuentro donde el talento, l
 
 
 
-![FOTO1](/www-chapter-panama-city/assets/images/2026/azuero1.jpeg =500x500)   | 
-![FOTO2](/www-chapter-panama-city/assets/images/2026/azuero2.jpeg =500x500)   |
-![FOTO3](/www-chapter-panama-city/assets/images/2026/azuero3.jpeg =500x500)   |
-![FOTO4](/www-chapter-panama-city/assets/images/2026/azuero4.jpeg =500x500)   | 
-![FOTO5](/www-chapter-panama-city/assets/images/2026/azuero5.jpeg =500x500)   |
-![FOTO6](/www-chapter-panama-city/assets/images/2026/azuero6.jpeg =500x500)   |
+![FOTO1](/www-chapter-panama-city/assets/images/2026/azuero1.jpeg)   | 
+![FOTO2](/www-chapter-panama-city/assets/images/2026/azuero2.jpeg)   |
+![FOTO3](/www-chapter-panama-city/assets/images/2026/azuero3.jpeg)   |
+![FOTO4](/www-chapter-panama-city/assets/images/2026/azuero4.jpeg)   | 
+![FOTO5](/www-chapter-panama-city/assets/images/2026/azuero5.jpeg)   |
+![FOTO6](/www-chapter-panama-city/assets/images/2026/azuero6.jpeg)   |
