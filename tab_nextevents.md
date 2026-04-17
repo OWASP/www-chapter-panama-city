@@ -1,7 +1,7 @@
 ---
 
 title: NextEvents
-displaytext: Próximos Eventos
+displaytext: Próximos Eventos -2026
 layout: null
 tab: true
 order: 1
