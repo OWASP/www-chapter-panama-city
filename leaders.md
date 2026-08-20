@@ -3,3 +3,4 @@
 * [Gonzalo Nina Mamani](mailto:gonzalo.mamani@owasp.org)
 * [Ivan Ho](mailto:ivan.ho@owasp.org)
 * [Onam Diaz](mailto:onam.diaz@owasp.org)
+* [Andre Conte](mailto:andre.contesanchez@owasp.org)
